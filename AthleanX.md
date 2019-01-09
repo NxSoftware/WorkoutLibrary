@@ -2,8 +2,16 @@
 
 ## Landmine Rainbows
 
-![logo]
+![LandmineRainbows]
 
-[logo]: LandmineRainbows.PNG
+[LandmineRainbows]: LandmineRainbows.PNG
 
-The UPPER Chest Solution (GET FULLER PECS!) - https://youtu.be/BY13DFmEF-s?t=634
+The Upper Chest Solution - https://youtu.be/BY13DFmEF-s?t=634
+
+## Twisting Pushup
+
+![TwistingPushup]
+
+[TwistingPushup]: TwistPushup.PNG
+
+The 8 Best Chest Exercises (No Bench or Dips) - https://youtu.be/S0ZAPSKhWRM?t=110
