@@ -15,3 +15,11 @@ The Upper Chest Solution - https://youtu.be/BY13DFmEF-s?t=634
 [TwistingPushup]: TwistPushup.PNG
 
 The 8 Best Chest Exercises (No Bench or Dips) - https://youtu.be/S0ZAPSKhWRM?t=110
+
+## Plate Squeeze
+
+![PlateSqueeze]
+
+[PlateSqueeze]: PlateSqueeze.PNG
+
+The 8 Best Chest Exercises (No Bench or Dips) - https://youtu.be/S0ZAPSKhWRM?t=159
